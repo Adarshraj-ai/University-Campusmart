@@ -24,7 +24,7 @@ Campus Mart is a campus marketplace application inspired by OLX where students c
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/deadshotsaurab/campus-mart.git
+git clone https://github.com/Adarshraj-ai/University-Campusmart.git
 cd campus-mart
 flutter pub get
 flutter run
